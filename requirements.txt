@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pdfminer.six
+google-generativeai
+python-dotenv
